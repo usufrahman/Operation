@@ -8,7 +8,7 @@ public class TestOperation {
 	System.out.println("hello");
 	System.out.println("hi");
 	int a=56;
-	int am=7;
+	
 	}
 
 }
